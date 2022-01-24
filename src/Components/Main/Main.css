@@ -13,7 +13,7 @@ body {
 
 .timer-display {
     display: flex;
-    color: #ccc;
+    color: #cccccc;
 }
 
 .timer-display p {
