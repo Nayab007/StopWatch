@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import calculateTimeInSeconds from '../../Helpers/TimerHelper';
 import Controls from '../Controls/Controls';
 import './Main.css';
