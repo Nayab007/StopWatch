@@ -19,7 +19,7 @@ body {
 .timer-display p {
     margin: 0;
     font-size: 4rem;
-    letter-spacing: 3px; 
+    letter-spacing: 4px; 
 }
 
 .timer-display span {
